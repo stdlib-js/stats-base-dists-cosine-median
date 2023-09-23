@@ -67,7 +67,7 @@ The [median][median] for a [raised cosine][cosine-distribution] random variable 
 ## Usage
 
 ```javascript
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-median@v0.1.0-esm/index.mjs';
 ```
 
 #### median( mu, s )
@@ -132,7 +132,7 @@ y = median( 0.0, -1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-median@v0.1.0-esm/index.mjs';
 
 var mu;
 var s;
