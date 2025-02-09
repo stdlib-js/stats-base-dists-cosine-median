@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-20)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`d53a818`](https://github.com/stdlib-js/stdlib/commit/d53a8184c029c3df7c45a7a1a2da9ff90b4f883e) - **docs:** fix errors in the structure of READMEs in `stats/base/*` [(#5138)](https://github.com/stdlib-js/stdlib/pull/5138) _(by Aayush Khanna)_
+-   [`247af42`](https://github.com/stdlib-js/stdlib/commit/247af42a6ec69194b9d251be4785c120155d7fd8) - **bench:** refactor random number generation in `stats/base/dists/cosine` [(#4861)](https://github.com/stdlib-js/stdlib/pull/4861) _(by Karan Anand)_
 -   [`c4ef550`](https://github.com/stdlib-js/stdlib/commit/c4ef5500174a0d77a90b1a72be560938ac56d58d) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`05b5326`](https://github.com/stdlib-js/stdlib/commit/05b5326d097c6f4ebf4af11c6e92d5da1410caca) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`a203308`](https://github.com/stdlib-js/stdlib/commit/a2033080838f7056796d2bd6f0096e11c25c7da4) - **chore:** add missing empty lines _(by Philipp Burckhardt)_
@@ -52,8 +54,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
+-   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 
