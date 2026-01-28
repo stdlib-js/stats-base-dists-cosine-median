@@ -67,7 +67,7 @@ The [median][median] for a [raised cosine][cosine-distribution] random variable 
 ## Usage
 
 ```javascript
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-median@deno/mod.js';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-median@v0.3.0-deno/mod.js';
 ```
 
 #### median( mu, s )
@@ -128,7 +128,7 @@ y = median( 0.0, -1.0 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-median@deno/mod.js';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-median@v0.3.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
